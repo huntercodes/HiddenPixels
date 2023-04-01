@@ -22,6 +22,8 @@ Hidden Pixel is a Windows Forms application that allows users to encrypt and dec
 1. Download or clone the repository.
 2. Open the project in a compatible C# IDE, such as Visual Studio.
 3. Build and run the application.
-4. To encrypt an image, click on the "Browse" button in the "Encrypt" section, select an image file, and enter a password. Click on "Encrypt" to save the encrypted image as a .hp file.
-5. To decrypt an encrypted image, click on the "Browse" button in the "Decrypt" section, select a .hp file, and enter the correct password. Click on "Decrypt" to view the decrypted image.
+4. To encrypt an image, click on the "Browse" button in the "Encrypt" section, select an image file, and enter a password.
+Click on "Encrypt" to save the encrypted image as a .hp file.
+5. To decrypt an encrypted image, click on the "Browse" button in the "Decrypt" section, select a .hp file, and enter the correct password.
+Click on "Decrypt" to view the decrypted image.
 ##
