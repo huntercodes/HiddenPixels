@@ -1,0 +1,11 @@
+C:\Users\hunte\source\repos\HiddenPixels\obj\Debug\HiddenPixels.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\HiddenPixels\obj\Debug\HiddenPixels.csproj.SuggestedBindingRedirects.cache
+C:\Users\hunte\source\repos\HiddenPixels\obj\Debug\HiddenPixels.Form1.resources
+C:\Users\hunte\source\repos\HiddenPixels\obj\Debug\HiddenPixels.Properties.Resources.resources
+C:\Users\hunte\source\repos\HiddenPixels\obj\Debug\HiddenPixels.csproj.GenerateResource.cache
+C:\Users\hunte\source\repos\HiddenPixels\obj\Debug\HiddenPixels.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\HiddenPixels\bin\Debug\HiddenPixels.exe.config
+C:\Users\hunte\source\repos\HiddenPixels\bin\Debug\HiddenPixels.exe
+C:\Users\hunte\source\repos\HiddenPixels\bin\Debug\HiddenPixels.pdb
+C:\Users\hunte\source\repos\HiddenPixels\obj\Debug\HiddenPixels.exe
+C:\Users\hunte\source\repos\HiddenPixels\obj\Debug\HiddenPixels.pdb
