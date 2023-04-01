@@ -27,3 +27,5 @@ Click on "Encrypt" to save the encrypted image as a .hp file.
 5. To decrypt an encrypted image, click on the "Browse" button in the "Decrypt" section, select a .hp file, and enter the correct password.
 Click on "Decrypt" to view the decrypted image.
 ##
+![Screenshot 2023-04-01 172120](https://user-images.githubusercontent.com/85328038/229316790-63c767a4-8538-4b2a-84dc-9317f3dd3f68.png)
+![Screenshot 2023-04-01 172557](https://user-images.githubusercontent.com/85328038/229316804-a372a616-0f94-40fa-ab59-a0566a58c654.png)
